@@ -1,3 +1,6 @@
+#practica 10
+#Jonathan Mendez Martinez
+#https://github.com/jonathanM-37/python-proyect
 import mysql.connector
 
 class TipoProyectoCRUD:
@@ -109,7 +112,7 @@ if __name__ == "__main__":
     db_config = {
         "host": "localhost",
         "user": "root",
-        "password": "papu19",
+        "password": "password",
         "database": "practica05_usuarios"
     }
     
